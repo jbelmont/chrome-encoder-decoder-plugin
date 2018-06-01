@@ -1,0 +1,6 @@
+{
+  "name": "Encoder/Decoder Plugin",
+  "version": "1.0",
+  "description": "A chrome extension to encode/decode values",
+  "manifest_version": 2
+}
